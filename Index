@@ -1,0 +1,5 @@
+"""
+Create a function that takes a list and a string as arguments and return the index of the string.
+"""
+	ind = list.index(lst,str)
+	return ind
