@@ -1,0 +1,6 @@
+"""
+Create a function that takes a list of numbers and returns only the even values.
+"""
+def noOdds(lst):
+	even = [i for i in lst if i % 2 == 0]
+	return even
